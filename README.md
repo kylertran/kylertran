@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kyler Tran</h1>
-<h3 align="center">A passionate software developer from Washington</h3>
+<h3 align="center">A passionate software developer from Renton, Washington</h3>
 
 - 🌱 I’m currently learning **artificial intelligence & network architecture**
 
