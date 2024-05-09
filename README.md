@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kyler Tran</h1>
 <h3 align="center">A passionate software developer from Washington</h3>
 
-- 🌱 I’m currently learning **artificial intelligence & network architecure**
+- 🌱 I’m currently learning **artificial intelligence & network architecture**
 
 - 👨‍💻 All of my projects are available at [https://kylertran.com/projects](https://kylertran.com/projects)
 
