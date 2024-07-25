@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **artificial intelligence & network architecture**
 
-- 👨‍💻 All of my projects are available at [https://www.kylertran.com/projects](https://kylertran.com/projects)
+- 👨‍💻 All of my projects are available at [https://kylertran.com/projects](https://www.kylertran.com/projects)
 
 - 📫 How to reach me **contact@kylertran.com**
 
-- 📄 Know about my experiences [https://www.kylertran.com/resume](https://kylertran.com/resume)
+- 📄 Know about my experiences [https://kylertran.com/resume](https://www.kylertran.com/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
